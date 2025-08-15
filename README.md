@@ -13,4 +13,4 @@ The Minimax algorithm simulates all possible moves and chooses the one that maxi
 ## 🖥️ How to Run
 1. **Compile the code**:
    ```bash
-   gcc main.c -o tictactoe
+   gcc game.c -o game
