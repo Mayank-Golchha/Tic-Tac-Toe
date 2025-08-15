@@ -1,6 +1,6 @@
 # Tic Tac Toe in C (Minimax AI)
 
-A console-based Tic Tac Toe game implemented in C, featuring an unbeatable AI powered by the **Minimax algorithm**.
+A terminal-based Tic Tac Toe game implemented in C, featuring an unbeatable AI powered by the **Minimax algorithm**.
 
 ## 🎮 Features
 - **Human vs AI** gameplay
